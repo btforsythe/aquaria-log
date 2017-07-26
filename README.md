@@ -1,5 +1,7 @@
 # aquaria-log
 
+- [ ] TODO turn these into daily log entries, integrate with Jekyll, etc
+
 ## Thursday, 2017-07-20
 
 Plants arrived.
