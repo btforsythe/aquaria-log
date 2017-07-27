@@ -31,4 +31,5 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 ## Thurs, July 27th, 2017
 
 29g:
-- measured nitrite, maybe some (?) measurable amount
+- nirite: maybe some (?) measurable amount
+- nitrate: almost unmeasurable as well
