@@ -27,3 +27,8 @@ Added shrimp from Rivers to Reefs Friday, they started dying pretty much straigh
 ## Wed, July 26th, 2017
 
 Added 2 Flourish tabs to 9g, added 3 to 29g.
+
+## Thurs, July 27th, 2017
+
+29g:
+- measured nitrite, maybe some (?) measurable amount
