@@ -33,3 +33,9 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 29g:
 - nirite: maybe some (?) measurable amount
 - nitrate: almost unmeasurable as well
+
+## Fri, July 29th, 2017
+
+29g:
+- added about two gallons water to replace evaporation (without adding Prime, must have left it at home)
+- added 1.2 ml Flourish Nitrogen
