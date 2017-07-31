@@ -42,5 +42,5 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 
 ## Mon, July 31st, 2017
 
-29g:
-- added 7.5ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 15g of water
+29g: added 7.5ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 15g of water
+9g: added 4ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 8g of water
