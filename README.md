@@ -39,3 +39,8 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 29g:
 - added about two gallons water to replace evaporation (without adding Prime, must have left it at home)
 - added 1.2 ml Flourish Nitrogen
+
+## Mon, July 31st, 2017
+
+29g:
+- added 7.5ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 15g of water
