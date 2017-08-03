@@ -45,3 +45,7 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 29g: added 7.5ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 15g of water
 
 9g: added 4ml Flourish Nitrogen as per Seachem dosing calculator for 2 mg/L of nitrogen in 8g of water
+
+## Thurs, Aug 3, 2017
+
+29g: 4:01PM: nitrate at 5.00-7.50 ppm on scale
