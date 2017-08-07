@@ -53,3 +53,4 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 ## Mon, Aug 7, 2017
 
 29g: 3:58PM: nitrate at 5.00-7.50 ppm on scale (maybe more towards 7.5)
+9g: 4:40PM: nitrate >= 10ppm
