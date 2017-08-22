@@ -61,4 +61,4 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 
 ## Tuesday, Aug 22, 2017
 
-29g: phosphate 0.1-0.2ppm
+29g: phosphate 0.1-0.2ppm. Same for 9g, gonna assume that's about as low as it will measure/baseline.
