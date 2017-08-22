@@ -58,3 +58,8 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 ## Wednesday, Aug 16, 2017
 
 29g: water change, 2g + top off: +2g
+
+## Tuesday, Aug 22, 2017
+
+29g:
+  phosphate: 0.1-0.2ppm
