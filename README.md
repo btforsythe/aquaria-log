@@ -58,3 +58,13 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 ## Wednesday, Aug 16, 2017
 
 29g: water change, 2g + top off: +2g
+
+## Monday, Oct 23, 2017
+
+29g: 7 KH, added heaping spoonful of bicarb
+
+## Tuesday, Oct 24, 2017
+
+29g: measured 12 KH
+
+tap water: measured at 3 KH (!)
