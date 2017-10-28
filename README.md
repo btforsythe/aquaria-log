@@ -72,3 +72,19 @@ Added 2 Flourish tabs to 9g, added 3 to 29g.
 29g: measured 12 KH
 
 tap water: measured at 3 KH (!)
+
+## Thursday, 2017-10-26
+
+9g:
+- measured 3 KH
+- added one level spoonful of baking soda
+
+## Saturday, 2017-10-28
+
+9g:
+- measured
+  - KH 8
+  - GH 15
+29g:
+- measured
+  - GH 16
