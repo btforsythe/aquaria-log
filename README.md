@@ -88,3 +88,9 @@ tap water: measured at 3 KH (!)
 29g:
 - measured
   - GH 16
+
+## Monday, 2017-11-13
+
+29g:
+- 2g water change, adding heaping spoon of NaHCO3 to replacement water
+- cleaned powerhead intake filter
