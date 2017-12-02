@@ -94,3 +94,16 @@ tap water: measured at 3 KH (!)
 29g:
 - 2g water change, adding heaping spoon of NaHCO3 to replacement water
 - cleaned powerhead intake filter
+
+## Friday, 2017-12-01
+
+29g:
+- 2g water change, top-off
+- added heaping spoon NaHCO3
+- cleaned canister pre-filter
+- removed (dead) plants
+- added Vallisneria spiralis from 9g
+
+9g:
+- added ~0.5 gallon water (top-off)
+- removed many Vallisneria spiralis
