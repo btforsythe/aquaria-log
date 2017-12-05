@@ -107,3 +107,20 @@ tap water: measured at 3 KH (!)
 9g:
 - added ~0.5 gallon water (top-off)
 - removed many Vallisneria spiralis
+
+## Tuesday, 2017-12-05
+
+Received plants from [LiveAquaria](http://www.liveaquaria.com). I ordered:
+- 4 x Cryptocoryne spiralis: This were large, nice plants, think I received 5?
+- 2 x Anubias nana: These are huge, too big for my tank. They will probably go to Donny.
+
+I did *not* order but received 5 bunches of Myriophyllum pinnatum.
+
+29g:
+- added Vallisneria from 9g
+- trimmed/replanted/eliminated Bacopa monnieri
+
+9g:
+- added Cryptocoryne spiralis
+- removed all Vallisneria
+- 6 KH, added heaping spoon of NaHCO3
