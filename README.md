@@ -124,3 +124,9 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - added Cryptocoryne spiralis
 - removed all Vallisneria
 - 6 KH, added heaping spoon of NaHCO3
+
+2017-12-31
+
+9g:
+- cleaned filter impeller
+- replanted tank
