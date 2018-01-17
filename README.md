@@ -130,3 +130,12 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 9g:
 - cleaned filter impeller
 - replanted tank
+
+2017-01-16
+
+9g:
+- overgrown with cyanobacteria
+- phosphate off the chart
+- manually cleaned out cyanobacteria
+- removed ~40% of tank water, added about 2g
+- added 2.2 ml Flourish Nitrogen (0.25 * 9g * 1ppm nitrogen (from http://www.seachem.com/flourish-nitrogen.php) = 2.25 ml)
