@@ -139,3 +139,14 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - manually cleaned out cyanobacteria
 - removed ~40% of tank water, added about 2g
 - added 2.2 ml Flourish Nitrogen (0.25 * 9g * 1ppm nitrogen (from http://www.seachem.com/flourish-nitrogen.php) = 2.25 ml)
+
+2017-01-20
+
+9g:
+- phosphate still off the chart
+- changed 2g water
+- phosphate still off the chart after water change
+- added 4ml Flourish Nitrogen
+
+29g:
+- phosphate 1.5mg/L
