@@ -150,3 +150,10 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 
 29g:
 - phosphate 1.5mg/L
+
+2017-01-27
+
+9g:
+- phosphate still max
+- changed 2g of water
+- added 4ml Flourish Nitrogen
