@@ -157,3 +157,10 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - phosphate still max
 - changed 2g of water
 - added 4ml Flourish Nitrogen
+
+## 2017-02-17
+
+29g:
+- changed 2g water
+- added spoonful NaHCO3
+- rinsed prefilter, sponge prefilter
