@@ -125,13 +125,13 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - removed all Vallisneria
 - 6 KH, added heaping spoon of NaHCO3
 
-2017-12-31
+## 2017-12-31
 
 9g:
 - cleaned filter impeller
 - replanted tank
 
-2017-01-16
+## 2017-01-16
 
 9g:
 - overgrown with cyanobacteria
@@ -140,7 +140,7 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - removed ~40% of tank water, added about 2g
 - added 2.2 ml Flourish Nitrogen (0.25 * 9g * 1ppm nitrogen (from http://www.seachem.com/flourish-nitrogen.php) = 2.25 ml)
 
-2017-01-20
+## 2017-01-20
 
 9g:
 - phosphate still off the chart
