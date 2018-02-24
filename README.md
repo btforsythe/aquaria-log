@@ -164,3 +164,8 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - changed 2g water
 - added spoonful NaHCO3
 - rinsed prefilter, sponge prefilter
+
+## 2017-02-24
+
+9g:
+- KH in the range 12-14
