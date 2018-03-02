@@ -169,3 +169,9 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 
 9g:
 - KH in the range 12-14
+
+## 2017-03-02
+
+9g: added 8 Red Cherry Shrimp
+
+Tap water: KH of about 4, GH of 9 (161 ppm)
