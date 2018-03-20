@@ -175,3 +175,7 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 9g: added 8 Red Cherry Shrimp
 
 Tap water: KH of about 4, GH of 9 (161 ppm)
+
+## 2017-03-17
+
+Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floating in the 29 for now.
