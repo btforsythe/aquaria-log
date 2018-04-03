@@ -140,7 +140,7 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 - removed ~40% of tank water, added about 2g
 - added 2.2 ml Flourish Nitrogen (0.25 * 9g * 1ppm nitrogen (from http://www.seachem.com/flourish-nitrogen.php) = 2.25 ml)
 
-## 2017-01-20
+## 2018-01-20
 
 9g:
 - phosphate still off the chart
@@ -151,31 +151,35 @@ I did *not* order but received 5 bunches of Myriophyllum pinnatum.
 29g:
 - phosphate 1.5mg/L
 
-2017-01-27
+2018-01-27
 
 9g:
 - phosphate still max
 - changed 2g of water
 - added 4ml Flourish Nitrogen
 
-## 2017-02-17
+## 2018-02-17
 
 29g:
 - changed 2g water
 - added spoonful NaHCO3
 - rinsed prefilter, sponge prefilter
 
-## 2017-02-24
+## 2018-02-24
 
 9g:
 - KH in the range 12-14
 
-## 2017-03-02
+## 2018-03-02
 
 9g: added 8 Red Cherry Shrimp
 
 Tap water: KH of about 4, GH of 9 (161 ppm)
 
-## 2017-03-17
+## 2018-03-17
 
 Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floating in the 29 for now.
+
+## 2018-04-03
+
+29g: added ~2g of water
