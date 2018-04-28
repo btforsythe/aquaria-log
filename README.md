@@ -183,3 +183,9 @@ Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floa
 ## 2018-04-03
 
 29g: added ~2g of water
+
+## 2018-04-28
+
+29g:
+
+- phosphate 0.5 ppm
