@@ -192,6 +192,13 @@ Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floa
 
 ## 2018-08-22
 
-9g:
+29g:
 
 - nitrate: off the charts!
+- removed algae, most rockwork, swapped out canister pre-filter sponge for clean one
+- added 2g water, added 2 heaping spoonfuls NaHCO3
+
+tap water: 
+
+- KH: 3 degrees!?!
+- GH: 4-5 degrees? difficult to read
