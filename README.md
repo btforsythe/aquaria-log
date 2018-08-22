@@ -189,3 +189,9 @@ Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floa
 29g:
 
 - phosphate 0.5 ppm
+
+## 2018-08-22
+
+9g:
+
+- nitrate: off the charts!
