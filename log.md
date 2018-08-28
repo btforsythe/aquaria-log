@@ -202,3 +202,10 @@ tap water:
 
 - KH: 3 degrees!?!
 - GH: 4-5 degrees? difficult to read
+
+## 2018-08028
+
+29g:
+
+- added 2 tbsp NaHCO3
+- added 2 gal water (lost from removing rockwork)
