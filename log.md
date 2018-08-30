@@ -212,17 +212,26 @@ tap water:
 
 ## 2018-08-30
 
-water parameter targets (based on Red Cherry Shrimp): PH: 6.4–7.6, KH: 2–5, GH: 6–8
-TDS: 150–250 Water temp: 69-74
+### target water parameters (from [Discobee's Dwarf Shrimp water parameters](https://www.discobee.com/blogs/news/17030569-dwarf-shrimp-water-parameters) entry for Red Cherry Shrimp)
+
+Looks like temperature may be a bit bogus?
+
+|PH			|KH		|GH		|TDS		|Temperature
+|---		|---	|---	|---		|---
+|6.4–7.6	|2–5	|6–8	|150–250	|69-74
 
 ### 29g
 
-- nitrate: almost unmeasurable (is my kit good?)
-- GH: 6-7°
-- KH: off the charts!
-- changed 2 gallons water, rinsed and/or replaced powerhead sponge filters and canister prefilter
+#### water tests (before water change)
+
+|nitrate								|GH     |KH
+|---									|---	|---
+|almost unmeasurable (is my kit good?)	|6-7°	|off the charts! (oopsie)
+
+- changed 2 gallons water, swapped out and cleaned powerhead sponge filters and canister prefilter
 
 ### tap water
 
-- KH: 2-3°
-- GH: 5-6°
+|KH     |GH
+|---	|---
+|2-3°	|5-6°
