@@ -198,14 +198,31 @@ Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floa
 - removed algae, most rockwork, swapped out canister pre-filter sponge for clean one
 - added 2g water, added 2 heaping spoonfuls NaHCO3
 
-tap water: 
+tap water:
 
 - KH: 3 degrees!?!
 - GH: 4-5 degrees? difficult to read
 
-## 2018-08028
+## 2018-08-28
 
 29g:
 
 - added 2 tbsp NaHCO3
 - added 2 gal water (lost from removing rockwork)
+
+## 2018-08-30
+
+water parameter targets (based on Red Cherry Shrimp): PH: 6.4–7.6, KH: 2–5, GH: 6–8
+TDS: 150–250 Water temp: 69-74
+
+### 29g
+
+- nitrate: almost unmeasurable (is my kit good?)
+- GH: 6-7°
+- KH: off the charts!
+- changed 2 gallons water, rinsed and/or replaced powerhead sponge filters and canister prefilter
+
+### tap water
+
+- KH: 2-3°
+- GH: 5-6°
