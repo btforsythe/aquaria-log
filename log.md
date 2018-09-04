@@ -235,3 +235,21 @@ Looks like temperature may be a bit bogus?
 |KH     |GH
 |---	|---
 |2-3°	|5-6°
+
+## 2018-09-04
+
+### tap water
+
+|TDS    |
+|---    |
+|130    |
+
+### 29g
+
+#### water tests
+
+TDS meter seems a bit dodgy? (Readings change whenever I swish it around)
+
+|TDS        |
+|---        |
+|750-760ppm |
