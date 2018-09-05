@@ -246,10 +246,23 @@ Looks like temperature may be a bit bogus?
 
 ### 29g
 
-#### water tests
+Changed 2g water
+
+#### water tests (before water change)
 
 TDS meter seems a bit dodgy? (Readings change whenever I swish it around)
 
 |TDS        |
 |---        |
 |750-760ppm |
+
+
+## 2018-09-05
+
+### 29g
+
+#### water tests (before water change)
+
+|TDS    |pH |GH |Notes
+|---    |---|---|---
+|710ppm |9.0|6-7|is a pH of 9 even possible?
