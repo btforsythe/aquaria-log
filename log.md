@@ -261,6 +261,8 @@ TDS meter seems a bit dodgy? (Readings change whenever I swish it around)
 
 ### 29g
 
+Changed 4g water.
+
 #### water tests (before water change)
 
 |TDS    |pH |GH |Notes
