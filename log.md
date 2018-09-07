@@ -268,3 +268,40 @@ Changed 4g water.
 |TDS    |pH |GH |Notes
 |---    |---|---|---
 |710ppm |9.0|6-7|is a pH of 9 even possible?
+
+#### water tests (after water change)
+
+|TDS    
+|---
+|630
+
+## 2018-09-06
+
+### 29g
+
+Changed 4g water. Added 8 Flourish Tabs to substrate.
+
+## 2018-09-07
+
+### 29g
+
+4g water change. Rinsed prefilters.
+
+Received from AquariumPlants.com yesterday:
+
+|plant                                  |common name                |qty    |type       |notes
+|---                                    |---                        |---    |---        |---
+|Echinodorus angustifolia "Vesuvius"    |                           |1      |pot        |
+|Hygrophila corymbosa "Siamensis"       |Green Temple, Narrow Leaf  |2      |bunch      |grown emersed
+|Hygrophila corymbosa                   |Green Temple               |1      |bunch      |grown emersed, substituted without my consent
+|Ludwigia repens                        |Broad Leaf Ludwigia        |3      |bunch      |grown emersed
+|Cryptocoryne crispatula var balansae   |Crypt balansae             |6      |bare root  |sent me more than six plants, but they're way smaller than advertised, tiny
+|Cryptocoryne undulata                  |                           |2      |pot        |
+
+They do NOT look great. Won't be ordering from there again.
+
+#### water tests (before water change)
+
+|TDS    |pH     |GH     |KH
+|---    |---    |---    |---
+|570    |9.0    |6-7    |> 15
