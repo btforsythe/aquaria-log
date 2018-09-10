@@ -285,7 +285,7 @@ Changed 4g water. Added 8 Flourish Tabs to substrate.
 
 ### 29g
 
-4g water change. Rinsed prefilters.
+4g water change. Rinsed prefilters. Put plants in.
 
 Received from AquariumPlants.com yesterday:
 
@@ -305,3 +305,13 @@ They do NOT look great. Won't be ordering from there again.
 |TDS    |pH     |GH     |KH
 |---    |---    |---    |---
 |570    |9.0    |6-7    |> 15
+
+## 2018-09-10
+
+### 29g
+
+#### water tests
+
+|TDS
+|---
+|520
